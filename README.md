@@ -1,6 +1,6 @@
 # Gesture Controlled Virtual Mouse &nbsp;[![](https://img.shields.io/badge/python-3.8.5-blue.svg)](https://www.python.org/downloads/) [![platform](https://img.shields.io/badge/platform-windows-green.svg)](https://github.com/nandithshetty/Gesture-Controlled-Virtual-Mouse) 
 
-Gesture Controlled Virtual Mouse makes human-computer interaction simple and touchless by leveraging Hand Gestures and Voice Commands. All input/output operations can be virtually controlled using static and dynamic hand gestures along with an integrated, offline-capable voice assistant named **Max**. 
+Gesture Controlled Virtual Mouse makes human-computer interaction simple and touchless by leveraging hand gestures and voice commands. All input/output operations can be virtually controlled using static and dynamic hand gestures along with an integrated, offline-capable voice assistant named **Max**. 
 
 This project makes use of state-of-the-art Computer Vision and machine learning pipelines to track and recognize hand landmarks, working smoothly on standard webcams without any specialized hardware requirements. It leverages the **Google MediaPipe Hands** framework to predict 21 3D hand coordinates in real-time, mapping joint geometry to system events via a multi-threaded Python backend and a sleek, glassmorphic HTML5/CSS front-end built using **Eel**.
 
